@@ -1,9 +1,9 @@
 123
 
-'''C
+```C
 #include <stdio.h>
 int main()
 {
   printf("Hi.");
 }
-'''C
+```C
