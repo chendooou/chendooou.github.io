@@ -58,7 +58,8 @@ int main()
                     居住在此的阿美族人，發展出獨特的巴拉告生態捕魚法，不僅讓人可以上<br>
                     一堂生態課，還能嘗到現撈的魚蝦、鹽烤吳郭魚，以及特有的石頭火鍋，<br>
                     來一場原民美食饗宴。
-                </p>            
+                </p>
+            </td>                
         </tr>
         <tr>
             <td><a href="https://www.erv-nsa.gov.tw/zh-tw/Attractions/Detail/3"><img src="media/鹿野高台.jpg" width="320" height="240"></a></td>
@@ -69,6 +70,7 @@ int main()
                     台進行熱氣球活動的好時機，搭乘緩緩升空起飛的熱氣球，徜徉在花東縱谷<br>
                     的美景之中，親身體驗熱氣球起飛的這一份躍動。
                 </p>
+            </td>     
         </tr>
         <tr>
             <td><a href="https://www.erv-nsa.gov.tw/zh-tw/Attractions/Detail/6"><img src="media/利吉惡地.jpg" width="320" height="240"></a></td>
@@ -81,7 +83,8 @@ int main()
                     利吉混同層是由顆粒極細的泥岩組成，由於泥岩孔隙小，透氣性及滲水性差，<br>
                     進而形成這片壯觀猙獰的惡地面貌。沿著木棧道深入利吉惡地，猶如走入一條<br>
                     天然的地質史展示走廊，令人印象十分深刻。
-                </p>            
+                </p>        
+            </td>         
         </tr>
         <tr>
             <td colspan="2" valign="top"><font size="5">聯絡資訊</font><br>
