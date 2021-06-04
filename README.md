@@ -1,5 +1,3 @@
-123
-
 ```C
 #include <stdio.h>
 int main()
